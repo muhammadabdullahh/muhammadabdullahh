@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/TimOliver/TimOliver/raw/main/header.png" width="410" alt="iComics on an iPhone XS Max" align="right" />
+<img src="[https://github.com/TimOliver/TimOliver/raw/main/header.png](https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&w=1000&q=80)" width="410" alt="iComics on an iPhone XS Max" align="right" />
 </p>
 
 # Sup! I'm Muhammad. 😃
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 </p>
 
-* 📱 Computer Science student at Ryerson University.
+* 📱 Computer Science student at Toronto Metropolitan University (Fromally Ryerson University).
 * 💥 Looking for 2023 Summer Internships.
 * 💻 Love publishing [open source software on GitHub](https://github.com/muhammadabdullahh?tab=repositories).
 * 🇨🇦 From Toronto ON, Canada.
