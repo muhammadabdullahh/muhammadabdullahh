@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 </p>
 
-* 📱 Computer Science student at Toronto Metropolitan University (Fromerly Ryerson University).
+* 📱 Computer Science student at Toronto Metropolitan University (formerly Ryerson University).
 * 💥 Looking for 2023 Summer Internships.
 * 💻 Loves publishing [open source software on GitHub](https://github.com/muhammadabdullahh?tab=repositories).
 * 🇨🇦 From Toronto ON, Canada.
