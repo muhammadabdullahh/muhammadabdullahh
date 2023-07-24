@@ -7,8 +7,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mabdullah03">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://twitter.com/mabdullah03_">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 </p>
 
 * 📱 Computer Science student at Toronto Metropolitan University (formerly Ryerson University).
