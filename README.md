@@ -10,7 +10,7 @@
 </p>
 
 * 📱 Computer Science student at Toronto Metropolitan University (formerly Ryerson University).
-* 💥 Looking for 2024/2025 Internships.
+* 💥 Looking for New Grad Roles
 * 💻 Loves publishing [open source software on GitHub](https://github.com/muhammadabdullahh?tab=repositories).
 * 🇨🇦 From Toronto ON, Canada.
 * 🎮 Loves playing [Valorant]([https://www.beyondallreason.info/](https://playvalorant.com/en-us/?gclid=Cj0KCQjwnP-ZBhDiARIsAH3FSRdiK4LT6tJPGE70DTwv_2Q-t0aWDnlF4zFEWpVsebyft0VmoHsW3SIaAiA1EALw_wcB&gclsrc=aw.ds)) & [Rocket League]([https://splatoon.nintendo.com/](https://www.rocketleague.com/)).
