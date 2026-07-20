@@ -9,10 +9,9 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </p>
 
-* 📱 Computer Science student at Toronto Metropolitan University (formerly Ryerson University).
-* 💥 Looking for New Grad Roles
-* 💻 Loves publishing [open source software on GitHub](https://github.com/muhammadabdullahh?tab=repositories).
+* 📱 BSc. Computer Science.
+* 💻 I like working on random projects
 * 🇨🇦 From Toronto ON, Canada.
-* 🎮 Loves playing [Valorant]([https://www.beyondallreason.info/](https://playvalorant.com/en-us/?gclid=Cj0KCQjwnP-ZBhDiARIsAH3FSRdiK4LT6tJPGE70DTwv_2Q-t0aWDnlF4zFEWpVsebyft0VmoHsW3SIaAiA1EALw_wcB&gclsrc=aw.ds)) & [Rocket League]([https://splatoon.nintendo.com/](https://www.rocketleague.com/)).
-* 🎤 Also loves basketball and snowboarding.
+* 🎮 Also enjoy [Valorant]([https://www.beyondallreason.info/](https://playvalorant.com/en-us/?gclid=Cj0KCQjwnP-ZBhDiARIsAH3FSRdiK4LT6tJPGE70DTwv_2Q-t0aWDnlF4zFEWpVsebyft0VmoHsW3SIaAiA1EALw_wcB&gclsrc=aw.ds)) & [Rocket League]([https://splatoon.nintendo.com/](https://www.rocketleague.com/)).
+* 🎤 Also love basketball and snowboarding.
 * 😁 Nice to meet you!
