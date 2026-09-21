@@ -58,13 +58,6 @@ Live platform handling hundreds of ticket purchases. Prevents overselling under 
 `Go` `Gin` `PostgreSQL` `React Native` `Expo`
 Location-ranked event feed served by a Go REST API, with an iOS/Android/web client from one codebase. Daily GitHub Actions pipeline ingests, geocodes, and deduplicates listings from 18 municipal calendars. Auth0 JWT auth.
 
-### 💰 Zenny — Personal Finance Manager
+### 💰 [Zenny](https://zennyapp.netlify.app/) — Personal Finance Manager
 `Swift` `SwiftUI` `NaturalLanguage`
 iOS budgeting app with voice-driven transaction entry and an on-device TF-IDF / k-NN classifier that learns each user's spending categories. Face ID lock and home-screen widgets.
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullahh&show_icons=true&hide_border=true&theme=default" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullahh&layout=compact&hide_border=true" height="160" alt="Top languages"/>
-</p>
