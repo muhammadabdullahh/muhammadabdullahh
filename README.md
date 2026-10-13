@@ -52,7 +52,7 @@
 `Next.js` `TypeScript` `PostgreSQL` `Stripe`
 Live platform handling hundreds of ticket purchases. Prevents overselling under concurrent demand with atomic PostgreSQL reservations and row-level locking, auto-released via Stripe webhooks. Includes RLS, rate limiting, and an admin console.
 
-### 📍 NearMoi — Cross-Platform Event Discovery *(in development)*
+### 📍 [NearMoi](https://nearmoi.ca) — Cross-Platform Event Discovery
 `Go` `Gin` `PostgreSQL` `React Native` `Expo`
 Location-ranked event feed served by a Go REST API, with an iOS/Android/web client from one codebase. Daily GitHub Actions pipeline ingests, geocodes, and deduplicates listings from 18 municipal calendars. Auth0 JWT auth.
 
